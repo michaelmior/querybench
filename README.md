@@ -1,6 +1,6 @@
 # QueryBench
 
-[![Build Status](https://travis-ci.org/michaelmior/querybench.svg)](https://travis-ci.org/michaelmior/querybench)
+[![Build Status](https://travis-ci.com/michaelmior/querybench.svg)](https://travis-ci.com/michaelmior/querybench)
 
 This is a series of experiments playing with the performance of queries executed using data models of different databases.
 Currently there are implementations of a simple query using [Redis](http://redis.io/), [MongoDB](https://www.mongodb.com/), and [PostgreSQL](http://www.postgresql.org/).
