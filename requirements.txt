@@ -5,4 +5,4 @@ pymongo==3.0.3
 pyparsing==1.5.7
 redis==2.10.3
 -e git+https://github.com/michaelmior/sully.git@c49dc727b40d22f11305433bfd988f425feca248#egg=sully-master
-wheel==0.24.0
+wheel==0.38.1
